@@ -10,7 +10,7 @@ else
 		return rem;
 }
 void displaychart(int egg,char player[4])
-{	int i,j,t,c,sft=0,diceres,position1,position2;
+{	int a,j,t,c,sft=0,diceres,position1,position2;
 	
 		
 if(egg==100)
@@ -20,15 +20,15 @@ if(egg==100)
 	exit(0);
 }
 	
-for(i=10;i>0;i--)
+for(a=10;a>0;a--)
 {
-t=i-1;
+t=a-1;
 if((sft%2)==0)
 {
  c=0;
 for(j=10;j>=1;j--)
 {
-diceres=(i*j)+(t*c++);
+diceres=(a*j)+(t*c++);
 if(egg==diceres)
 printf("%s\t",player);
 else
@@ -41,7 +41,7 @@ else
 c=9;
 for(j=1;j<=10;j++)
 {
-diceres=(i*j)+(t*c--);
+diceres=(a*j)+(t*c--);
 		         if(egg==diceres)
 					printf("%s\t",player);
 				else
@@ -55,7 +55,7 @@ diceres=(i*j)+(t*c--);
 }
 void main()
 {
-	int i,dice,cur_position1=0,cur_position2=0;
+	int a,dice,cur_position1=0,cur_position2=0;
 	char ch;
 	while(1)
 	{	printf("		** SNAKE AND LADDER ** \n		Coded By ARAGONDA GANESH REDDY\n");
