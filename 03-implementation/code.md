@@ -158,7 +158,6 @@ void main()
 				break;
 			
 			default:printf("Incorrect choice.Try Again\n");
-				
 		}
 		
 	}
