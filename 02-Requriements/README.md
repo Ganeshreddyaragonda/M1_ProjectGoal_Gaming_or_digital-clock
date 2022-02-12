@@ -6,7 +6,7 @@ Snakes and ladders is an ancient Indian board game that’s regarded today as a 
 
 The aim of the game is to reach the final square. The game is a race that’s based on sheer luck, and is popular with children.
 
-##  Snakes and ladders history - Origins
+##  Snakes and ladders history 
 
 The history of snakes and ladders can be traced back to ancient India, where it was known as Mokshapat or Moksha Patamu. Some people think it was invented by Hindi spiritual leaders, although this is unclear. The game is thought to have been played as early as the second century B.C.
 
@@ -16,7 +16,7 @@ The game carried a moral message: that salvation is attainable through righteous
 
 In the original Hindu game, snakes outnumbered ladders, signifying that a moral path is more difficult to traverse than a life of bad deeds.
 
-## Snakes and ladders history - English adaptation
+## Snakes and ladders history 
 
 In the latter part of the 19th century, colonial rulers transported a modified version of the game to England. Indian vices and virtues were adapted to reflect Victorian notions of morality.
 
