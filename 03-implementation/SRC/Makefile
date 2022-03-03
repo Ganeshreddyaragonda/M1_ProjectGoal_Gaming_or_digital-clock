@@ -6,6 +6,6 @@ Build : code.c
 
 Run : code.out
 	./code.out
-
+	
 Clean:
 	rm -rf *.o *.out *.i *.s
